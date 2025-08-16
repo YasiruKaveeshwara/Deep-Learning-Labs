@@ -1,0 +1,7 @@
+Q1) What happens when the number of hidden nodes increases?
+
+Having more than 2 hidden nodes rapidly increases the accuracy. But when we increase hidden nodes over 5, the accuracy stabilizes. Also can do down a bit too.
+
+Q2) Can you explain the pattern of the accuracy when the hidden nodes increase?
+
+When we increase the hidden nodes to 3, there is a noticeable increase in accuracy. When it goes to 5, the maximum accuracy is reached. the after increasing the hidden nodes after that, it fluctuates around that maximum accuracy a little bit. Simply, accuracy increases with the hidden nodes count up to a certain level and stabilizes with minor fluctuations.
